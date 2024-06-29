@@ -22,18 +22,14 @@ EDA was conducted to understand the distributional, time series, and multivariat
 Each team member focused on different aspects of PGMs:
 
 Student A: Defined probabilistic graphical models, distinguishing between belief networks and Markov networks.
-\n
 Student B: Explored parameter learning techniques and their implications.
-\n
 Student C: Investigated Markov chains and their application in causal modeling.
 ### 6. Algorithm Development
 As a group, we developed pseudocode for Algorithm1: Inferred Causality, integrating concepts from our individual summaries on PGMs.
 
 ## Contributors
 Student A: Macro/Geopolitical Data Specialist
-\n
 Student B: Microeconomic Data Specialist
-\n
 Student C: Financial Data Specialist
 Focusing on Bayesian networks applied to forecasting oil prices, involving data collection, cleaning, and exploratory data analysis.
 
